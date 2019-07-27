@@ -1,0 +1,63 @@
+.bg-main{
+  background-color: #2E2E2E;
+}
+
+.bg-Font{
+  background-color: #FFFFFF;
+}
+
+#footer{
+  background-color: #2f2f2f;
+  padding: 30px 0;
+}
+.column{
+  min-width: 300px;
+  display: inline-block;
+  vertical-align: top;
+}
+#footer h4{
+  color: #FFFFFF;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+}
+#footer p{
+  color: white;
+}
+a{
+  color: #6F0F00;
+  text-decoration: none;
+}
+a:hover{
+  color: #4A4A4A;
+}
+
+.post{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 0;
+}
+.post-author img{
+  width: 437px;
+  height: 614,2px;
+  vertical-align: middle;
+}
+.post-author span{
+  margin-left: 16px;
+}
+
+.post-date{
+  color: #D2D2D2;
+
+  font-size: 14px;
+  font-weight: bold;
+
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+h1, h2, h3, h4 {
+  color: #333
+}
+p {
+  line-height: 1.5;
+}
